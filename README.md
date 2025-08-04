@@ -574,7 +574,7 @@ graph TD
 
 ## 📄 许可证
 
-本项目采用 MIT 许可证 - 查看 [LICENSE](https://claude.xiaoai.shop/chat/LICENSE) 文件了解详情。
+本项目采用 MIT 许可证 - 查看 [LICENSE]() 文件了解详情。
 
 ------
 
@@ -582,9 +582,8 @@ graph TD
 
 如有任何问题或建议，请通过以下方式联系：
 
-- 📧 Email: [您的邮箱]
-- 🐛 Issues: [GitHub Issues](https://claude.xiaoai.shop/chat/链接)
-- 💬 Discussion: [GitHub Discussions](https://claude.xiaoai.shop/chat/链接)
+- 📧 Email: [您的邮箱](zihao3351@gmail.com)
+- 🐛 Issues: [GitHub Issues](https://github.com/unumbrela/Semi-Supervised-Medical-Segmentation-Collection/issues)
 
 ------
 
