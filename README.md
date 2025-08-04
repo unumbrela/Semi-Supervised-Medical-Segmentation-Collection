@@ -1,5 +1,5 @@
 # 半监督医学图像分割方法合集
-
+[中文](README.md) | [English](README-EN.md)
 ## 📖 研究方向介绍
 
 **半监督医学图像分割（Semi-supervised Medical Image Segmentation）** 是一个重要且活跃的研究领域，主要解决医学图像分割中标注数据稀缺的问题。
@@ -449,6 +449,10 @@ graph TD
 | **Pancreas-NIH**     | CT   | 胰腺分割     | 82个CT扫描   | 挑战性小器官分割      |
 | **PROMISE2012**      | MRI  | 前列腺分割   | 50个训练样本 | V-Net原始验证数据集   |
 | **ISLES-2022**       | MRI  | 中风病变分割 | -            | 高类别不平衡场景      |
+
+Pancreas数据集介绍，分为两个版本，最开始的版本有82个CT扫描（DyCON等用的是这个版本），后面更新后的版本只有80个CT扫描（BCP等用的是这个版本），删除了有问题的两个样例
+笔者个人建议使用最新版本（80个CT扫描），这里笔者提供最新版本的原始数据的[百度网盘](https://pan.baidu.com/s/50pwn9POkifuOXqrRKTPUxQ) 链接
+
 
 ------
 
