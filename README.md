@@ -582,7 +582,7 @@ graph TD
 
 如有任何问题或建议，请通过以下方式联系：
 
-- 📧 Email: [您的邮箱](zihao3351@gmail.com)
+- 📧 Email: [Zihao](zihao3351@gmail.com)
 - 🐛 Issues: [GitHub Issues](https://github.com/unumbrela/Semi-Supervised-Medical-Segmentation-Collection/issues)
 
 ------
